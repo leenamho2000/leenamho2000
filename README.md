@@ -1,43 +1,43 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,100:030303&height=120&text=📊%20Data%20Engineer%20|%20Python%20·%20SQL%20·%20Visualization&fontColor=ffffff&fontSize=38" />
-</div>
+# 📊 Data Analyst | Python · SQL · Visualization
 
-<div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 데이터 기반 의사결정을 돕는 데이터 분석가 이남호입니다. </h2>  
+안녕하세요. 데이터 기반 의사결정을 돕는 데이터 엔지니어 **이남호**입니다.
+단순히 분석 결과를 만드는 것보다 문제의 맥락을 이해하고 실무에서 활용 가능한 인사이트를 도출하는 것을 중요하게 생각합니다.
 
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-Python과 SQL을 활용한 데이터 처리, EDA(탐색적 데이터 분석), 시각화를 통한 인사이트 도출에 관심이 있습니다. 
-단순히 분석 결과를 만드는 것보다 문제의 맥락을 이해하고 실무에서 활용 가능한 결과를 만드는 것을 중요하게 생각합니다. 
-현재는 데이터 분석 프로젝트를 통해 통계적 사고와 데이터 스토리텔링 역량을 강화하며, 실제 서비스 데이터 관점에서 문제를 정의하는 연습을 꾸준히 하고 있습니다.
-</div> 
-</div>
+---
 
-<br/>
+## 🚀 Main Projects (Core Competency)
+*가장 집중하고 있는 핵심 도메인 및 실시간 데이터 처리 프로젝트입니다.*
 
-<div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Data Analysis Tech Stacks </h2> 
-<br> 
+* **[WhalePulse]((링크))** : 비트코인 고래(대규모 트랜잭션) 실시간 추적 및 시장 영향력 분석 시스템
+* **[Smart Factory Optimization](([링크](https://github.com/leenamho2000/smart-factory-project)))** : 제조 공정 센서 데이터 기반 이상 징후 탐지 및 수율 최적화 분석
 
-<div style="text-align: left;"> 
+---
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+## 🎓 Capstone Project (University Excellence)
+*대학 과정 중 수행한 가장 완성도 높은 공식 프로젝트입니다.*
 
-<br/>
+* **[VeriAI](([링크](https://github.com/leenamho2000/VeriAI)))** : 생성형 AI(LLM)를 활용한 ESG 공시 문서 신뢰도 및 증거 수준 자동 검증 솔루션
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+---
 
-</div>
-</div>
+## ✍️ Practice & Studies (Methodology)
+*데이터 분석의 방법론과 기초 체력을 기르기 위한 지속적인 학습 기록입니다.*
 
-## 📂 Project Archive
+* **[A/B Test Optimization]((링크))** : 유저 행동 데이터를 활용한 사회적 증거 기반 구독 전환율(CVR) 개선 실험
+* **[Financial-Risk-Predictor]((링크))** : 머신러닝 분류 알고리즘을 활용한 금융권 신용 점수 산출 프로세스 구현
 
-| Category | Description | Key Repositories |
-| :--- | :--- | :--- |
-| **Main** | 비즈니스 문제 해결 및 실무 프로세스 경험 | [A/B Test](링크), [VeriAI(ESG)](링크) |
-| **Mini** | 특정 도메인(금융, 제조) 데이터 분석 및 모델링 | [Risk Predictor](링크), [Smart Factory](링크) |
-| **Practice** | SQL 쿼리 최적화 및 신규 라이브러리 학습 | [SQL_Study](링크), [Visualization_Lab](링크) |
+---
+
+## 🛠️ Data Analysis Tech Stacks
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📫 Contact & More
+* **Email:** [leenamho2000@gmail.com]

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,100:030303&height=120&text=📊%20Data%20Analyst%20|%20Python%20·%20SQL%20·%20Visualization&fontColor=ffffff&fontSize=38" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,100:030303&height=120&text=📊%20Data%20Engineer%20|%20Python%20·%20SQL%20·%20Visualization&fontColor=ffffff&fontSize=38" />
 </div>
 
 <div style="text-align: left;"> 

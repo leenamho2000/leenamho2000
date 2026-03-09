@@ -1,4 +1,4 @@
-# 📊 Data Analyst | Python · SQL · Visualization
+# 📊 Data Engineer | Python · SQL · Visualization
 
 안녕하세요. 데이터 기반 의사결정을 돕는 데이터 엔지니어 **이남호**입니다.
 단순히 분석 결과를 만드는 것보다 문제의 맥락을 이해하고 실무에서 활용 가능한 인사이트를 도출하는 것을 중요하게 생각합니다.

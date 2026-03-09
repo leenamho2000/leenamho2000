@@ -8,7 +8,7 @@
 ## 🚀 Main Projects (Core Competency)
 *가장 집중하고 있는 핵심 도메인 및 실시간 데이터 처리 프로젝트입니다.*
 
-* **[WhalePulse]((링크))** : 비트코인 고래(대규모 트랜잭션) 실시간 추적 및 시장 영향력 분석 시스템
+* **[WhalePulse](https://github.com/leenamho2000/whale-pulse)** : 비트코인 고래(대규모 트랜잭션) 실시간 추적 및 시장 영향력 분석 시스템
 * **[Smart Factory Optimization](https://github.com/leenamho2000/smart-factory-project)** : 제조 공정 센서 데이터 기반 이상 징후 탐지 및 수율 최적화 분석
 
 ---

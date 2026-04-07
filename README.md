@@ -5,8 +5,8 @@
 
 ---
 
-## 🚀 Main Projects (Core Competency)
-*가장 집중하고 있는 핵심 도메인 및 실시간 데이터 처리 프로젝트입니다.*
+## 🚀 Toy Projects
+*실시간 데이터 처리 프로젝트입니다.*
 
 * **[WhalePulse](https://github.com/leenamho2000/whale-pulse)** : 비트코인 고래(대규모 트랜잭션) 실시간 추적 및 시장 영향력 분석 시스템
 * **[Smart Factory Optimization](https://github.com/leenamho2000/smart-factory-project)** : 제조 공정 센서 데이터 기반 이상 징후 탐지 및 수율 최적화 분석
@@ -14,7 +14,7 @@
 ---
 
 ## 🎓 Capstone Project (University Excellence)
-*대학 과정 중 수행한 가장 완성도 높은 공식 프로젝트입니다.*
+*대학 과정 중 수행한 프로젝트입니다.*
 
 * **[VeriAI](https://github.com/leenamho2000/VeriAI)** : 생성형 AI(LLM)를 활용한 ESG 공시 문서 신뢰도 및 증거 수준 자동 검증 솔루션
 
